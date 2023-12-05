@@ -1,7 +1,7 @@
 **IMDB CLONE MOVIE WEBSITE**
 
 
-In React Js I have Made IMDB CLONE Movie Website And For API I have Used TMDB API.
-Features Implemented : Movies Card, Movie Details Section,Carousel With Different Movie Name.
-You Can filter trending movie, new movie.
-Tech Stack : I Have Used CSS, Javascript Material UI And React Js.(MAY-2023)
+I successfully developed an IMDB Clone Movie Website using React.js, leveraging the TMDB API for dynamic movie data.
+The website features a user-friendly interface with Movie Cards and a detailed Movie Details section.
+I implemented a carousel showcasing various movie names, enhancing the visual experience.
+
