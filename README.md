@@ -4,5 +4,5 @@ I successfully developed an IMDB Clone Movie Website using React.js, leveraging 
 
 Users can easily filter trending and new movies, providing an up-to-date and personalized viewing experience. The technology stack includes CSS for styling, JavaScript for functionality, Material UI for design components, and React.js for seamless user interactions.
 
-The project was completed in May 2023, showcasing my proficiency in front-end technologies and API integration to create a fully functional and visually appealing movie platform
+The project was completed in May 2023, showcasing my proficiency in front-end technologies and API integration to create a fully functional and visually appealing movie platform.
 
