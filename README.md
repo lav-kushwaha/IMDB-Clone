@@ -7,4 +7,4 @@ Users can easily filter trending and new movies, providing an up-to-date and per
 The project was completed in May 2023, showcasing my proficiency in front-end technologies and API integration to create a fully functional and visually appealing movie platform.
 
 **You Can Check Live Website By Clicking On Link : 
-Website Link :https://imdbmoviez.vercel.app/ **
+Website Link :https://imdbmoviez.vercel.app/**
